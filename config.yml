@@ -1,0 +1,8 @@
+name_model: 'parsBERT'
+epochs: 1
+learning_rate: 0.00002
+gamma: 0.5
+step_size: 2
+batch_size: 1
+load_saved_model: True
+ckpt_save_freq: 2
